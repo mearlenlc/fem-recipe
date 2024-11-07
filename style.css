@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
 
 body{
   margin: 0;
@@ -27,4 +31,17 @@ body{
   height: auto;
   border-radius: 20px;
   margin-bottom: 24px;
+}
+
+.bottom-bar{
+  border: 0;
+  border-bottom: 0.5px;
+  border-style: solid;
+  border-color: hsl(30, 18%, 87%);
+  border-spacing: 20px;
+  margin-bottom: 1em;
+}
+
+.ingredients{
+  padding-bottom: 1em;
 }
